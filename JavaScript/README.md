@@ -1,6 +1,12 @@
 # JavaScript 代码规范
 
-本规范综合了 [JavaScript Style Guide](https://github.com/airbnb/javascript#types)，[JavaScript Standard Style](https://github.com/standard/standard/blob/master/docs/RULES-zhcn.md#javascript-standard-style)，[idiomatic](https://github.com/rwaldron/idiomatic.js/tree/master/translations/zh_CN)，并且有更改和扩展。
+本规范参考
+[JavaScript Style Guide](https://github.com/airbnb/javascript#types)，
+[JavaScript Standard Style](https://github.com/standard/standard/blob/master/docs/RULES-zhcn.md#javascript-standard-style)
+[idiomatic](https://github.com/rwaldron/idiomatic.js/tree/master/translations/zh_CN)
+[前端开发编码规范](https://github.com/hgwang/standard)
+[亚信UED - 团队规范文档](https://github.com/Alsiso/AICG)
+并且有更改和扩展。
 
 修改的原则：
 
